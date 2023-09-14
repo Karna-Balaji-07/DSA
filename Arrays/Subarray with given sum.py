@@ -1,3 +1,4 @@
+# Geeks for Geeks problem
 # Subarray with given sum { GeeksForGeeks }
 # N = 5, S = 12
 # A[] = {1,2,3,7,5}
