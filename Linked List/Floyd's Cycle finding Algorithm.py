@@ -100,6 +100,10 @@ class LinkedList:
 
 list = LinkedList()
 head = None
+n = int(input())
+for i in range(n):
+    x = int(input())
+    list.push(x)
 list.push(60)
 list.push(50)
 list.push(40)
