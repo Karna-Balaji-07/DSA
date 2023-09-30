@@ -80,3 +80,7 @@ class Conversion:
 exp = "a+b*(c^d-e)^(f+g*h)-i"
 obj = Conversion(len(exp))
 obj.infixtopostfix(exp)
+
+# Time complexity is O(N)
+# space complexity is O(N)
+
